@@ -1,0 +1,24 @@
+{
+  "name": "git-test-no2",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pragmatist2015/front-end-web-ui.git"
+  },
+  "author": "trev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pragmatist2015/front-end-web-ui/issues"
+  },
+  "homepage": "https://github.com/pragmatist2015/front-end-web-ui#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
